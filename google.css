@@ -146,7 +146,7 @@
             width: 580px;
             border: 2px solid rgb(240, 240, 240);
             border-radius: 28px;
-               box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+            box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
             border-color: rgba(223, 225, 229, 0);
             text-decoration: none !important;
         }
