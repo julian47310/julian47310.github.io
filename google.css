@@ -9,12 +9,6 @@
             text-decoration: none;
         }
 
-       .gestes{
-              padding-bottom:30px;
-              display:flex;
-              align-items:center;
-       }
-
         a:visited {
             color: #609;
         }
