@@ -9,6 +9,10 @@
             text-decoration: none;
         }
 
+       .gestes{
+              padding-bottom:30px;
+       }
+
         a:visited {
             color: #609;
         }
