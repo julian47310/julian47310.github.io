@@ -193,7 +193,7 @@
             margin-right: 27px;
         }
 
-        @media (max-width:1213px) {
+        @media (max-width:1230px) {
             #footer-bottom {
                 justify-content: center;
                 flex-wrap: wrap;
