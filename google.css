@@ -1,6 +1,7 @@
        body{
            font-family: Arial, sans-serif;
            overflow-x: scroll;
+           min-width:1139px;
        }
        
        a {
