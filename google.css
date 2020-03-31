@@ -1,7 +1,11 @@
        body{
            font-family: Arial, sans-serif;
-           overflow-x: scroll;
+           overflow-x: hidden;
            min-width:1139px;
+       }
+
+       imgestes{
+              padding-bottom:30px
        }
        
        a {
@@ -201,3 +205,9 @@
                 flex-wrap: wrap;
             }
         } 
+
+        @media (max-width:1139px) {
+            body{
+              overflow-x: scroll;
+            }
+            }
